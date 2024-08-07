@@ -1,6 +1,3 @@
-Sure! Here is a README for the SafeBrowse: Anti-Phishing Extension:
-
----
 
 # SafeBrowse: Anti-Phishing Extension
 
